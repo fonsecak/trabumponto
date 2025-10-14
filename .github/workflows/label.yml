@@ -3,7 +3,7 @@ name: Update README with Changelog
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   update-readme:
